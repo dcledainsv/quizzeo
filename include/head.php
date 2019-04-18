@@ -12,10 +12,10 @@
 		<nav class="container">
 			<ul>
 				<li><a href="../index.php">Accueil</a></li>
-				<li><a href="../php/quizz.php">Quizz</a></li>
-				<li><a href="">Paramètres</a></li>
-				<li><a href="">A propos</a></li>
-				<li><a href="">Se connecter / S'enregistrer / Se déconnecter</a></li> <!-- Modifier selon si l'utilisateur se trouve connecté sur le moment -->
+					<li><a href="../php/quizz.php">Quizz</a></li>
+					<li><a href="../php/setting.php">Paramètres</a></li>
+					<li><a href="../php/about-us.php">A propos</a></li>
+					<li><a href="../php/log.php">Se connecter / S'enregistrer / Se déconnecter</a></li> <!-- Modifier selon si l'utilisateur se trouve connecté sur le moment -->
 			</ul>
 		</nav>
 	</div>
